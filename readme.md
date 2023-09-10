@@ -1,4 +1,4 @@
-# Vera Website
+# JoMama's Website
 
 Mock Business website for software solutions, but I can easily chang things up to fit any business. Dark-themed design with modals and other features.
 
