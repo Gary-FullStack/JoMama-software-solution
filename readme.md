@@ -1,6 +1,6 @@
 # JoMama's Website
 
-Mock Business website for software solutions, but I can easily chang things up to fit any business. Dark-themed design with modals and other features.
+Intro site for an "alternative" Social Forum website, but I can easily change things up to fit any business. Dark-themed design with modals and other features.
 
 <img src="./images/jomama.png" />
 
@@ -12,7 +12,6 @@ Mock Business website for software solutions, but I can easily chang things up t
 - Navbar scroll effect
 - Video modal
 - Animated play button
-- Pricing grid
 - Styled modals for projects
 - Font awesome icons
 
