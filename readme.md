@@ -2,7 +2,7 @@
 
 Mock Business website for software solutions, but I can easily chang things up to fit any business. Dark-themed design with modals and other features.
 
-<img src="./images/screen.png" />
+<img src="./images/jomama.png" />
 
 ## Features
 
